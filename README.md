@@ -3,4 +3,4 @@
 test
 dev-alg change
 
-https://github.com/UMaine-New-Media-105/lab-8-aidangorneau/blob/main/Algerian_Georgian_Flag.js
+https://github.com/aidangorneau/lab8-repository
